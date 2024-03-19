@@ -13,4 +13,3 @@ Some functions can have multiple shortcuts assigned, e.g. the forward movement o
 {% endhint %}
 
 ![](../../../.gitbook/assets/iVP\_settings\_input\_manager\_entries.jpg)
-
