@@ -4,8 +4,8 @@ If you share a machine with other people or if you want to [change your password
 
 **1.** Click on your account name (usually your e-mail address) in the top right corner of the hub window
 
-![](../../../.gitbook/assets/iVP\_launcher\_mail.jpg)
+![](../../../.gitbook/assets/iVP_launcher_mail.png)
 
 **2.** From the appearing options choose "Log out."
 
-![](../../../.gitbook/assets/iVP\_launcher\_logout.jpg)
+![](../../../.gitbook/assets/iVP_launcher_logout.png)

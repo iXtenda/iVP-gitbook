@@ -14,9 +14,9 @@ The automated application updates are optional so you can continue to use the ap
 
 **1.** Open the settings page of the iVP Hub by clicking on your account name / e-mail address in the top right corner, followed by a click on "Settings".
 
-![](../../../.gitbook/assets/iVP\_launcher\_mail.jpg)
+![](../../../.gitbook/assets/launcher_mail.jpg)
 
-![](../../../.gitbook/assets/iVP\_launcher\_settings.jpg)
+![](../../../.gitbook/assets/launcher_settings.jpg)
 
 **2.** In the "General" tab, activate the "Update application when hub starts" option by ticking the checkbox.
 

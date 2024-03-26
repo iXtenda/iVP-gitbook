@@ -14,9 +14,9 @@ Through the fact that the login window will not be available when "Remember me" 
 
 **1.** Click on your account name (usually your e-mail address) in the top right corner of the hub window. A list of available options will appear. Now click on "Settings".
 
-![](../../../.gitbook/assets/iVP\_launcher\_mail.jpg)
+![](../../../.gitbook/assets/launcher_mail.jpg)
 
-![](../../../.gitbook/assets/iVP\_launcher\_settings.jpg)
+![](../../../.gitbook/assets/launcher_settings.jpg)
 
 **2.** The "General" tabof the settings will open where you can find the checkbox that can be used to toggle the "Remember me" option.
 

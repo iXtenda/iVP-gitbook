@@ -4,9 +4,8 @@ The iVP Launcher can be tweaked in different ways - it is possible to [save logi
 
 **1.** Open the settings page by clicking on your account name / e-mail address in the top right corner of the window.
 
-![](../../../.gitbook/assets/iVP\_launcher\_mail.jpg)
+![](../../../.gitbook/assets/launcher_mail.jpg)
 
 **2.** Click on "Settings".
 
-![](../../../.gitbook/assets/iVP\_launcher\_settings.jpg)
-
+![](../../../.gitbook/assets/launcher_settings.jpg)

@@ -6,9 +6,9 @@ By default, parts of the username / account e-mail address are masked with "\*" 
 
 **1.** Open the settings page by clicking on your account name / e-mail address in the top right corner of the window, followed by a click on "Settings".
 
-![](../../../.gitbook/assets/iVP\_launcher\_mail.jpg)
+![](../../../.gitbook/assets/launcher_mail.jpg)
 
-![](../../../.gitbook/assets/iVP\_launcher\_settings.jpg)
+![](../../../.gitbook/assets/launcher_settings.jpg)
 
 **2.** Open the "Account" tab by clicking on it.
 
