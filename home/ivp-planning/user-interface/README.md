@@ -13,7 +13,7 @@ Overview for the interface (german)
 * [3D-panel](the-3d-panel.md)
 * [Hierarchy panel](hierarchy-panel.md)
 * [Library panel](library-panel.md)
-* [Info panel](the-info-panel.md)
+* [Properties panel](the-properties-panel.md)
 
 ## **Tool-related panels:**
 

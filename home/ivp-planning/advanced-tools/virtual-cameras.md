@@ -34,7 +34,7 @@ It is also possible to [move](../machines/move-objects.md) or [rotate](../machin
 
 ![](../../../.gitbook/assets/iVP\_virtual\_cameras\_objects.jpg)
 
-Furthermore, a virtual camera can be manipulated by its values in the [info panel](../user-interface/the-info-panel.md) after it has been selected.
+Furthermore, a virtual camera can be manipulated by its values in the [properties panel](../user-interface/the-properties-panel.md) after it has been selected.
 
 ![](../../../.gitbook/assets/iVP\_virtual\_cameras\_position.jpg)
 
@@ -60,7 +60,7 @@ While the output of a camera is displayed in the 3D-panel, the regular [camera m
 
 After [setting up position and rotation of the virtual cameras](virtual-cameras.md#setting-camera-position-and-rotation), it is necessary to specify the transitions between the cameras and the timeline which defines which camera will be displayed at what time later on in the rendered video.
 
-The first way to adjust the default settings for each camera is to **adjust the respective values in the** [info panel](../user-interface/the-info-panel.md) after the virtual camera in question has been selected. Hereby, the values have the following meaning:
+The first way to adjust the default settings for each camera is to **adjust the respective values in the** [properties panel](../user-interface/the-properties-panel.md) after the virtual camera in question has been selected. Hereby, the values have the following meaning:
 
 * **Camera index:** defines, when the camera will be rendered - the higher the index, the later the camera will be positioned in the timeline that defines the order of the shots in the video later on
 * **Field of view:** defines the area the camera is able to render - higher values result in a "wider" perspective&#x20;

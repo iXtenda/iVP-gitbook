@@ -25,7 +25,7 @@ The text menu contains four submenus:
 
     * _**Grid:**_ toggles the [grid ](the-grid.md)that is visible as floor play overlay in the [2D-Panel](the-2d-panel.md)
     * _**Coordinate System:**_ toggles the [coordinate system](the-grid.md) that acts as orientation in the [2D-Panel](the-2d-panel.md)
-    * _**Animations:**_ toggles all animations globally without overwriting the animation values set for [customizable machines](../machines/customizable-machines.md)
+    * _**Animations:**_ toggles all animations globally without overwriting the animation values set for [customizable machines](../user-interface/the-properties-panel.md)
     * _**PDF Floor Plan:**_ toggles the visibility of the [PDF](../getting-started/importing-pdfs.md) that acts as an overlay for the [floor plan](the-floor-plan.md)
     * _**Overhead View:**_ toggles between a "snapshot" view and a live view in the [2D-Panel](the-2d-panel.md)
     * _**Walls:**_ toggles the visibility of walls in the [3D-View](the-3d-panel.md)
@@ -39,7 +39,7 @@ The text menu contains four submenus:
   * _**Layout:**_ Opens a small submenu that lets you choose a [window layout](layouts.md)
   * _**Hierarchy:**_ opens the [hierarchy panel](the-machine-list.md), opened and docked by default
   * _**Library:**_ opens the [library panel](library-panel.md), opened and docked by default
-  * _**Properties:**_ opens the [properties panel](the-info-panel.md), opened and docked by default
+  * _**Properties:**_ opens the [properties panel](../user-interface/the-properties-panel.md), opened and docked by default
   * _**Camera List:**_ opens the [camera list panel](camera-list-panel.md)
   * _**Video:**_ opens the [video panel](virtual-camera-panel.md)
   * _**Settings:**_ opens the [settings panel](settings-panel.md)

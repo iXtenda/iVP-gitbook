@@ -1,10 +1,10 @@
 # Ground Markings
  
-It is possible to convert your path into a ground marking, enabling you to highlight specific areas with color-coding, which will be visible in the [2D-panel](../user-interface/the-2d-panel.md) and [3D-panel](../user-interface/the-3d-panel.md). To do so, simply change the [paths](path-tool.md) type to **Ground Marking** in the [properties panel](../user-interface/the-info-panel.md).
+It is possible to convert your path into a ground marking, enabling you to highlight specific areas with color-coding, which will be visible in the [2D-panel](../user-interface/the-2d-panel.md) and [3D-panel](../user-interface/the-3d-panel.md). To do so, simply change the [paths](path-tool.md) type to **Ground Marking** in the [properties panel](../user-interface/the-properties-panel.md).
  
 ![](../../../.gitbook/assets/path_tool_ground_marking_type.jpg)
 
-Besides the regular path options, you will also have the option to change the ground markings **line width**, **alignment**, **gap** and its **color** in the [properties panel](../user-interface/the-info-panel.md).  
+Besides the regular path options, you will also have the option to change the ground markings **line width**, **alignment**, **gap** and its **color** in the [properties panel](../user-interface/the-properties-panel.md).  
 
 * **Line width**: Determines the width of the ground markings outer and inner lines.
 

@@ -24,7 +24,7 @@ As soon as you are in the move mode, the handle in the center of the object will
 
 ## Moving objects via the info panel:
 
-It is possible to move an object via **text input** in the [info panel](../user-interface/the-info-panel.md). The numbers entered in the fields define where the object is located in the scene.
+It is possible to move an object via **text input** in the [properties panel](../user-interface/the-properties-panel.md). The numbers entered in the fields define where the object is located in the scene.
 
 {% hint style="info" %}
 The position values in the info panel always equal the distance of the object to the current [reference point](../user-interface/the-grid.md) of the [coordinate system](../user-interface/the-grid.md). If the reference point changes, the position values in the info panel will change accordingly. However, this change does not affect the actual position of the object in the scene.

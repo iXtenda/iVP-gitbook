@@ -24,7 +24,7 @@ The default layout displays all the panels necessary for planning and quick [mea
 {% tab title="Simple layout" %}
 ![](../../../.gitbook/assets/iVP\_layout\_simple.jpg)
 
-The simple layout is useful to display information of already existing objects and features wider [machine](the-machine-list.md) and [library panels](library-panel.md) and a large [info panel](the-info-panel.md).
+The simple layout is useful to display information of already existing objects and features wider [machine](the-machine-list.md) and [library panels](library-panel.md) and a large [properties panel](../user-interface/the-properties-panel.md).
 {% endtab %}
 
 {% tab title="Presentation Layout" %}

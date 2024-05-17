@@ -8,7 +8,7 @@ The room tool is a special variant of the [path tool](path-tool.md). We recommen
 
 ## Creating a room:
 
-Rooms are based on measurements which can be created with the [path tool](path-tool.md). Afterwards, every path can be turned into a room by **changing the type ** under the Measurments foldout of the [properties](../user-interface/the-info-panel.md) that is displayed as soon as a path is [selected](path-tool.md#path-selection-and-editing).
+Rooms are based on measurements which can be created with the [path tool](path-tool.md). Afterwards, every path can be turned into a room by **changing the type ** under the Measurments foldout of the [properties](../user-interface/the-properties-panel.md) that is displayed as soon as a path is [selected](path-tool.md#path-selection-and-editing).
 
 ![](../../../.gitbook/assets/iVP\_fence\_tool\_create\_room.jpg)
 
@@ -37,7 +37,7 @@ Pass-troughs have a flexible width, they always span from the selected point to 
 
 ## Room customization:
 
-Rooms can be customized in various ways under the Measurments foldout of the [properties](../user-interface/the-info-panel.md) if 'Type' has been changed to room. Options are:
+Rooms can be customized in various ways under the Measurments foldout of the [properties](../user-interface/the-properties-panel.md) if 'Type' has been changed to room. Options are:
 
 * Wall visibility, material and dimensions
 * Window visibility, dimensions, spacing and offset

@@ -32,6 +32,6 @@ As soon as you are in the rotation mode, the handle in the center of the object 
 
 ## Rotating objects via the info panel:
 
-It is possible to rotate an object via **text input** in the [info panel](../user-interface/the-info-panel.md). The number entered in the field equals the clockwise rotation around a vertical axis.
+It is possible to rotate an object via **text input** in the [properties panel](../user-interface/the-properties-panel.mdd). The number entered in the field equals the clockwise rotation around a vertical axis.
 
 ![](../../../.gitbook/assets/iVP\_guide\_rotate\_objects\_info\_panel.jpg)

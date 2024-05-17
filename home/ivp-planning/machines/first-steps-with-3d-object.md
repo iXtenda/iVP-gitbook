@@ -28,4 +28,4 @@ The last step is to simply click anywhere in the [2D-panel](../user-interface/th
 
 ![](../../../.gitbook/assets/iVP\_guide\_add\_new\_machines\_placed\_machine.jpg)
 
-From here, you can either adjust [position](selecting-and-moving-objects.md#move-objects), [rotation](scale-and-rotate-objects.md#rotate-objects) or [scale](scale-and-rotate-objects.md#scale-objects) of the object or [modify](customizable-machines.md) it provided it is a [customizable object](customizable-machines.md).
+From here, you can either adjust [position](selecting-and-moving-objects.md#move-objects), [rotation](scale-and-rotate-objects.md#rotate-objects) or [scale](scale-and-rotate-objects.md#scale-objects) of the object or [modify](../user-interface/the-properties-panel.md) it provided it is a [customizable object](../user-interface/the-properties-panel.md).

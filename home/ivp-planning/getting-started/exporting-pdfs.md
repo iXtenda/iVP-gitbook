@@ -20,7 +20,7 @@ The export process can be started by clicking on **File -> PDF - > Export PDF**.
 * **Scale:** this value defines the scale of the PDF to import, e.g. 1:100 or 1:50
 * **Font size:** if the "Append machine list" option is checked, this value will define the font size of the list entries
 * **Render ground plan:** if checked the PDF [floor plan](../user-interface/the-floor-plan.md) of the project will be rendered during the export and will therefore be visible in the exported PDF
-* **Append machine list:** if checked a list of all machines and objects in the project will be appended as separate pages to the PDF (this list will also include the specification of [custom machines](../machines/customizable-machines.md))
+* **Append machine list:** if checked a list of all machines and objects in the project will be appended as separate pages to the PDF this list will also include the specification of custom machines.
 * **Open when finished:** if checked the PDF will be opened in the default PDF viewer right after the export process finished
 
 ![](../../../.gitbook/assets/iVP\_pdf\_export\_pdf\_options.jpg)

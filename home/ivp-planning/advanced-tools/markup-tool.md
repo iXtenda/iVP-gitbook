@@ -26,7 +26,7 @@ The placed markup will be added to the [hierarchy](../user-interface/the-machine
 
 ## Editing a Markup:
 
-After placing a markup, the [properties panel](../user-interface/the-info-panel.md) will show the default options to [move an object](../machines/move-objects.md#moving-objects-via-the-info-panel) and foremost a section to edit the selected markup.
+After placing a markup, the [properties panel](../user-interface/the-properties-panel.md) will show the default options to [move an object](../machines/move-objects.md#moving-objects-via-the-info-panel) and foremost a section to edit the selected markup.
 
 ![](../../../.gitbook/assets/markup\_properties.jpg)
 
@@ -62,7 +62,7 @@ The conversation section contains all text entries and screenshots made by users
 
 ## Using Conversations:
 
-The conversation tab can be opened by **clicking on the corresponding markup** and will be shown in the lower part of the [properties](../user-interface/the-info-panel.md).
+The conversation tab can be opened by **clicking on the corresponding markup** and will be shown in the lower part of the [properties](../user-interface/the-properties-panel.md).
 
 |                                                                           |                                                                                                                                                                                                                                                                                                              |
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

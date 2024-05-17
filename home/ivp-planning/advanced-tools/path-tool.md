@@ -62,6 +62,6 @@ You can toggle the display of **edge lengths**, **angle** and **area** informati
 
 ![](../../../.gitbook/assets/iVP_path_tool_context_menu.jpg)
 
-Alternatively it is possible to hide or show all lengths or angles by changing the entry in the measurement section of the [properties panel](../user-interface/the-info-panel.md).
+Alternatively it is possible to hide or show all lengths or angles by changing the entry in the measurement section of the [properties panel](../user-interface/the-properties-panel.md).
 
 ![](../../../.gitbook/assets/iVP_path_tool_properties_window_2d.jpg)
