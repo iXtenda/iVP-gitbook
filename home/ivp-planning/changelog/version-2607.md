@@ -116,3 +116,26 @@ _2026-07-01_
 ### New Machines
 - Signal Light
 - Central Signal Light System
+
+
+## Version 2607.1.0
+_2026-07-08_
+
+### Highlights
+- __Properties Panel__ - more stable functionality and usability
+
+### Feature Updates
+- __PDF files__ can now be set to __four different levels of transparency__ to improve the workflow.
+
+### General Bugfixes
+- We __fixed__ issues with the __Properties Panel__ leading to performance and usability problems.
+- __Hidden objects__ inside Library concepts are __not dectivated/blocked__ anymore after unpacking.
+- The functionality of the __Path Tool__ has been __stabilized__ further to prevent errors with edge cases.
+
+### Machine & Asset Updates
+
+#### Bug Fixes
+
+- __CENTATEQ N-510__
+    - __Stabilized__ the properties and customization settings.
+    - __Fixed__ some wrong __customizations__, e.g. the cooling unit.
