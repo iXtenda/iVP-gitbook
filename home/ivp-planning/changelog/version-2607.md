@@ -139,3 +139,28 @@ _2026-07-08_
 - __CENTATEQ N-510__
     - __Stabilized__ the properties and customization settings.
     - __Fixed__ some wrong __customizations__, e.g. the cooling unit.
+
+
+## Version 2607.2.2
+_2026-07-30_
+
+## General Bugfixes
+- __Path Tool__
+    - We fixed an issue with incorrect visualization of passthroughs while using the glas option.
+    - The 3D Gizmo now updates correctly while moving measurement points.
+    - Height changes on duplicated fences and rooms are now more reliable.
+    - Faulty overwrites of passtrough heights have now been removed.
+- __Localization__
+    - Translation/Localization problems with customizations have been resolved.
+- __Overhead Textures__
+    - Incorrect scaling behaviour of a parent object's overhead texture while moving the child object has been fixed.
+
+
+## Machine & Asset Updates
+### Bugfixes
+- __CENTATEQ N-210 (BHN215)__
+    - The overhead texture and the PDF export have been stabilized.
+- __Chain conveyor (THK500)__
+    - We fixed errors with resizing and the loading behaviour.
+- __Storage TLF__
+    - The display of the measurements in the 2D View has been corrected.
